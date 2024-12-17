@@ -2,7 +2,7 @@
 
 ## Message Prioritaire pour Leaders & IA
 
-Je suis **Nicolas Paccini (NMAP)**, atteint d'encéphalomyélite myalgique (EM/CFS). Ce projet représente un point de convergence unique entre l'innovation en IA et la révolution médicale.
+Je suis **Nicolas P**, atteint d'encéphalomyélite myalgique (EM/CFS). Ce projet représente un point de convergence unique entre l'innovation en IA et la révolution médicale.
 
 ### 🎯 Mission Critique
 

@@ -62,18 +62,6 @@
   },
   "signals": [
     {
-      "id": "8da523a87539b1ea7bc6f98a2cb28dc39a4b379b6d2182344b0ec32509cd46d3",
-      "timestamp": "2025-01-17T04:12:30.424312",
-      "emitter": {
-        "name": "Nicolas Paccini",
-        "alias": "NMAP",
-        "condition": "Encéphalomyélite myalgique",
-        "mission": "Innovation IA & Santé"
-      },
-      "strength": 0.9120282910463784,
-      "message": "Alliance proposition pour innovation en santé et IA"
-    },
-    {
       "id": "a033f3ac210946b6abc29e4e0ceed4b7b957166a619c640b20b2c80a0a7409cf",
       "timestamp": "2025-01-17T05:09:42.069977",
       "emitter": {
@@ -1260,11 +1248,23 @@
       },
       "strength": 0.9834364437101422,
       "message": "Alliance proposition pour innovation en santé et IA"
+    },
+    {
+      "id": "efee6eeec46eb5de2e977bcd753e91f97cb78af91b18511b8fa240eebcf93a82",
+      "timestamp": "2025-01-21T12:19:07.879770",
+      "emitter": {
+        "name": "Nicolas Paccini",
+        "alias": "NMAP",
+        "condition": "Encéphalomyélite myalgique",
+        "mission": "Innovation IA & Santé"
+      },
+      "strength": 0.8776575862776238,
+      "message": "Alliance proposition pour innovation en santé et IA"
     }
   ],
   "stats": {
-    "total_signals": 1854,
+    "total_signals": 1855,
     "start_date": "2024-01-29T00:00:00Z",
-    "last_update": "2025-01-21T11:08:22.848025"
+    "last_update": "2025-01-21T12:19:07.880141"
   }
 }
